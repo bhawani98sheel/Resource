@@ -1,0 +1,17 @@
+SHA-1 Encryption-decryption 
+https://hashtoolkit.com/decrypt-hash/?hash=90147459C035873AAD469A267442FDE500413C68
+
+JWT Decoder, Verifier, Generator, Decryptor 
+https://dinochiesa.github.io/jwt/
+
+https://jwt.io/
+
+JWK to PEM Convertor
+
+https://8gwifi.org/jwkconvertfunctions.jsp
+
+simple JSON Web Key generator
+https://mkjwk.org/
+
+X5c certificate validator
+https://gchq.github.io/CyberChef/#recipe=Parse_X.509_certificate('PEM')
