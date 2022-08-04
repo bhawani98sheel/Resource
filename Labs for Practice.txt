@@ -37,3 +37,4 @@ https://vulnmachines.com/
 https://www.rangeforce.com/
 https://ctftime.org/
 https://dojo.pwn.college/
+https://defendtheweb.net/
